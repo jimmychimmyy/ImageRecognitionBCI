@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=f-h1zHOeXJg&feature=youtu.be
+
 ### Introduction and Motivation
 
 The problem we tried to solve was to determine whether or not a user recognized a presented image after seeing a random sequence of marker images. Why is this important? Initially we set out to classify lies vs truths, however, we found it difficult to directly measure brain waves when subjects were talking. We modified our design and came to the conclusion that classifying whether a user was familiar with an image or not was a practical alternative to a lie detector. We believed a productionalized version of our classifier has the potential to aid courts of law in pinpointing criminals to their respective crime scenes. Our goal was to determine whether re-viewing seen images would elicit some form of response in a person’s memory and to extend the practical application of BCIs to mainstream use.
